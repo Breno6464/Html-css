@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2? family=Fredericka+the+Great&display=swap');
+
+@import url('https://fonts.googleapis.com/css2? family=Cherry+Bomb+One&family=Fredericka+the+Great&display=swap');
+
+@import url('https://fonts.googleapis.com/css2? family=Bebas+Neue&family=Cherry+Bomb+One&family=Fredericka+the+Great&display=swap');
+
+h1 {
+  font: italic normal 5em 'Fredericka, a Grande', cursiva;
+  color: #0d2331;
+}
+
+h2{
+  font: italic bolder 2em 'Cherry Bomb One', cursiva;
+}
+
+p {
+  text-align: center;
+  font: normal bolder 'Bebas Neue', sans-serif;
+}
+
+body {
+  background-image: linear-gradient(to right, #CAE9FF, #5FA8D3 );
+}
+
+main {
+  height: auto;
+}
